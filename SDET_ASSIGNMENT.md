@@ -492,4 +492,5 @@ A strong submission is one that:
 - is easy to reason about and maintain
 - documents assumptions and tradeoffs clearly
 
-A smaller but robust, well-designed automation solution is preferred over a broad but superficial one.
+A smaller but robust, well-designed automation solution is preferred over a broad but superficial one
+
